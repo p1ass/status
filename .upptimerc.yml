@@ -24,4 +24,4 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/p1ass/status/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
   name: p1ass status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: \*.p1ass.comを外形監視しています。
+  introMessage: "*.p1ass.comを外形監視しています。"
