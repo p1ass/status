@@ -22,6 +22,6 @@ assignees:
 status-website:
   cname: status.p1ass.com
   logoUrl: https://raw.githubusercontent.com/p1ass/status/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
-  name: Upptime
+  name: p1ass status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: \*.p1ass.comを外形監視しています。
