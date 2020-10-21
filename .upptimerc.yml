@@ -7,7 +7,7 @@ sites:
   - name: blog.p1ass.com
     url: https://blog.p1ass.com
   - name: blog-api.p1ass.com
-    url: https://blog-api.p1ass.com
+    url: https://blog-api.p1ass.com/rss
   - name: midare.p1ass.com
     url: https://midare.p1ass.com
   - name: midare-api.p1ass.com
