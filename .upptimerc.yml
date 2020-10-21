@@ -1,5 +1,5 @@
 owner: p1ass
-repo: url-monitoring
+repo: status
 user-agent: p1ass
 sites:
   - name: p1ass.com
@@ -13,15 +13,15 @@ sites:
   - name: midare-api.p1ass.com
     url: https://midare-api.p1ass.com
   # - name: Secret Site
-    # url: $SECRET_SITE
+  # url: $SECRET_SITE
 notifications:
   - type: slack
     channel: C01DD5Y3H17
 assignees:
   - p1ass
 status-website:
-  cname: url-monitoring.p1ass.com
-  logoUrl: https://raw.githubusercontent.com/p1ass/url-monitoring/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
+  cname: status.p1ass.com
+  logoUrl: https://raw.githubusercontent.com/p1ass/status/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)

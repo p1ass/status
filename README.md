@@ -2,29 +2,29 @@
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
-[![Static Site CI](https://github.com/p1ass/url-monitoring/workflows/Static%20Site%20CI/badge.svg)](https://github.com/p1ass/url-monitoring/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Graphs CI](https://github.com/p1ass/url-monitoring/workflows/Graphs%20CI/badge.svg)](https://github.com/p1ass/url-monitoring/actions?query=workflow%3A%22Graphs+CI%22)
-[![Response Time CI](https://github.com/p1ass/url-monitoring/workflows/Response%20Time%20CI/badge.svg)](https://github.com/p1ass/url-monitoring/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Summary CI](https://github.com/p1ass/url-monitoring/workflows/Summary%20CI/badge.svg)](https://github.com/p1ass/url-monitoring/actions?query=workflow%3A%22Summary+CI%22)
-[![Uptime CI](https://github.com/p1ass/url-monitoring/workflows/Uptime%20CI/badge.svg)](https://github.com/p1ass/url-monitoring/actions?query=workflow%3A%22Uptime+CI%22)
+[![Static Site CI](https://github.com/p1ass/status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/p1ass/status/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Graphs CI](https://github.com/p1ass/status/workflows/Graphs%20CI/badge.svg)](https://github.com/p1ass/status/actions?query=workflow%3A%22Graphs+CI%22)
+[![Response Time CI](https://github.com/p1ass/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/p1ass/status/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Summary CI](https://github.com/p1ass/status/workflows/Summary%20CI/badge.svg)](https://github.com/p1ass/status/actions?query=workflow%3A%22Summary+CI%22)
+[![Uptime CI](https://github.com/p1ass/status/workflows/Uptime%20CI/badge.svg)](https://github.com/p1ass/status/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://url-monitoring.p1ass.com): <!--live status--> **🟩 All systems operational**
+## [📈 Live Status](https://status.p1ass.com): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
 
-| URL                                                  | Status | History                                                                                                             | Response Time                                                                             | Uptime                                                                                                                                                                      |
-| ---------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [p1ass.com](https://p1ass.com)                       | 🟩 Up  | [p1ass-com.yml](https://github.com/p1ass/url-monitoring/commits/master/history/p1ass-com.yml)                       | <img alt="Response time graph" src="./graphs/p1ass-com.png" height="20"> 392ms            | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Furl-monitoring%2Fmaster%2Fapi%2Fp1ass-com%2Fuptime.json)            |
-| [blog.p1ass.com](https://blog.p1ass.com)             | 🟩 Up  | [blog-p1ass-com.yml](https://github.com/p1ass/url-monitoring/commits/master/history/blog-p1ass-com.yml)             | <img alt="Response time graph" src="./graphs/blog-p1ass-com.png" height="20"> 240ms       | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Furl-monitoring%2Fmaster%2Fapi%2Fblog-p1ass-com%2Fuptime.json)       |
-| [blog-api.p1ass.com](https://blog-api.p1ass.com/rss) | 🟩 Up  | [blog-api-p1ass-com.yml](https://github.com/p1ass/url-monitoring/commits/master/history/blog-api-p1ass-com.yml)     | <img alt="Response time graph" src="./graphs/blog-api-p1ass-com.png" height="20"> 1010ms  | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Furl-monitoring%2Fmaster%2Fapi%2Fblog-api-p1ass-com%2Fuptime.json)   |
-| [midare.p1ass.com](https://midare.p1ass.com)         | 🟩 Up  | [midare-p1ass-com.yml](https://github.com/p1ass/url-monitoring/commits/master/history/midare-p1ass-com.yml)         | <img alt="Response time graph" src="./graphs/midare-p1ass-com.png" height="20"> 255ms     | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Furl-monitoring%2Fmaster%2Fapi%2Fmidare-p1ass-com%2Fuptime.json)     |
-| [midare-api.p1ass.com](https://midare-api.p1ass.com) | 🟩 Up  | [midare-api-p1ass-com.yml](https://github.com/p1ass/url-monitoring/commits/master/history/midare-api-p1ass-com.yml) | <img alt="Response time graph" src="./graphs/midare-api-p1ass-com.png" height="20"> 260ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Furl-monitoring%2Fmaster%2Fapi%2Fmidare-api-p1ass-com%2Fuptime.json) |
+| URL                                                  | Status | History                                                                                                     | Response Time                                                                             | Uptime                                                                                                                                                              |
+| ---------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [p1ass.com](https://p1ass.com)                       | 🟩 Up  | [p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/p1ass-com.yml)                       | <img alt="Response time graph" src="./graphs/p1ass-com.png" height="20"> 392ms            | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fp1ass-com%2Fuptime.json)            |
+| [blog.p1ass.com](https://blog.p1ass.com)             | 🟩 Up  | [blog-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/blog-p1ass-com.yml)             | <img alt="Response time graph" src="./graphs/blog-p1ass-com.png" height="20"> 240ms       | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fblog-p1ass-com%2Fuptime.json)       |
+| [blog-api.p1ass.com](https://blog-api.p1ass.com/rss) | 🟩 Up  | [blog-api-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/blog-api-p1ass-com.yml)     | <img alt="Response time graph" src="./graphs/blog-api-p1ass-com.png" height="20"> 1010ms  | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fblog-api-p1ass-com%2Fuptime.json)   |
+| [midare.p1ass.com](https://midare.p1ass.com)         | 🟩 Up  | [midare-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/midare-p1ass-com.yml)         | <img alt="Response time graph" src="./graphs/midare-p1ass-com.png" height="20"> 255ms     | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fmidare-p1ass-com%2Fuptime.json)     |
+| [midare-api.p1ass.com](https://midare-api.p1ass.com) | 🟩 Up  | [midare-api-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/midare-api-p1ass-com.yml) | <img alt="Response time graph" src="./graphs/midare-api-p1ass-com.png" height="20"> 260ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fmidare-api-p1ass-com%2Fuptime.json) |
 
 <!--end: status pages-->
 
 ## 👩‍💻 Getting started
 
-1. Create a new repository [using this template](https://github.com/p1ass/url-monitoring/generate)
+1. Create a new repository [using this template](https://github.com/p1ass/status/generate)
 2. Update the [`.upptimerc.yml`](./.upptimerc.yml) file with your configuration
 3. Enable publishing the `gh-pages` branch for your status website and add a `GH_PAT`
 
@@ -32,7 +32,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 
 #### Issues as incidents
 
-When the GitHub Actions workflow detects that one of your URLs is down, it automatically opens a GitHub issue ([example issue #15](https://github.com/p1ass/url-monitoring/issues/15)). You can add incident reports to this issue by adding comments. When your site comes back up, the issue will be closed automatically as well.
+When the GitHub Actions workflow detects that one of your URLs is down, it automatically opens a GitHub issue ([example issue #15](https://github.com/p1ass/status/issues/15)). You can add incident reports to this issue by adding comments. When your site comes back up, the issue will be closed automatically as well.
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ When the GitHub Actions workflow detects that one of your URLs is down, it autom
 
 #### Commits for response time
 
-Four times per day, another workflow runs and records the response time of your websites. This data is commited to GitHub, so it's available in the commit history of each file ([example commit history](https://github.com/p1ass/url-monitoring/commits/master/history/wikipedia.yml)). Then, the GitHub API is used to graph the response time history of each endpoint and to track when a site went down.
+Four times per day, another workflow runs and records the response time of your websites. This data is commited to GitHub, so it's available in the commit history of each file ([example commit history](https://github.com/p1ass/status/commits/master/history/wikipedia.yml)). Then, the GitHub API is used to graph the response time history of each endpoint and to track when a site went down.
 
 <table>
   <tr>
@@ -211,7 +211,7 @@ Optionally, you can add some introductory text to the website. You can use Markd
 ```yaml
 status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/p1ass/url-monitoring). No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/p1ass/status). No server required — just GitHub Actions, Issues, and Pages.
 ```
 
 #### Site deployment
@@ -239,7 +239,7 @@ npm run update-template
 
 ### Badges
 
-You can use the [Shields.io](https://shields.io) service with the API endpoint generated by your repository's `api` directory. For example, the URL https://raw.githubusercontent.com/p1ass/url-monitoring/master/api/google/uptime.json has the following JSON schema:
+You can use the [Shields.io](https://shields.io) service with the API endpoint generated by your repository's `api` directory. For example, the URL https://raw.githubusercontent.com/p1ass/status/master/api/google/uptime.json has the following JSON schema:
 
 ```json
 {
