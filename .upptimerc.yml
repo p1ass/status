@@ -2,16 +2,16 @@ owner: p1ass
 repo: url-monitoring
 user-agent: p1ass
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: p1ass.com
+    url: https://p1ass.com
+  - name: blog.p1ass.com
+    url: https://blog.p1ass.com
+  - name: blog-api.p1ass.com
+    url: https://blog-api.p1ass.com
+  - name: midare.p1ass.com
+    url: https://midare.p1ass.com
+  - name: midare-api.p1ass.com
+    url: https://midare-api.p1ass.com
   # - name: Secret Site
     # url: $SECRET_SITE
 notifications:
