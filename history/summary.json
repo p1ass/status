@@ -1,42 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "p1ass.com",
+    "url": "https://p1ass.com",
+    "slug": "p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 49
+    "time": 675
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "blog.p1ass.com",
+    "url": "https://blog.p1ass.com",
+    "slug": "blog-p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 97
+    "time": 372
   },
   {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 402
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 282
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "blog-api.p1ass.com",
+    "url": "https://blog-api.p1ass.com",
+    "slug": "blog-api-p1ass-com",
     "status": "down",
+    "uptime": "-1983.33",
+    "time": 1013
+  },
+  {
+    "name": "midare.p1ass.com",
+    "url": "https://midare.p1ass.com",
+    "slug": "midare-p1ass-com",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 255
+  },
+  {
+    "name": "midare-api.p1ass.com",
+    "url": "https://midare-api.p1ass.com",
+    "slug": "midare-api-p1ass-com",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 248
   }
 ]
