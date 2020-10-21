@@ -1,5 +1,5 @@
-owner: koj-co
-repo: upptime
+owner: p1ass
+repo: url-monitoring
 user-agent: KojBot
 sites:
   - name: Google
@@ -12,15 +12,15 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  # - name: Secret Site
+    # url: $SECRET_SITE
 notifications:
   - type: slack
-    channel: C016QTU9S9Y
+    channel: C01DD5Y3H17
 assignees:
-  - AnandChowdhary
+  - p1ass
 status-website:
-  cname: upptime.js.org
+  cname: url-monitorig.p1ass.com
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
