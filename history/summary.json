@@ -5,7 +5,7 @@
     "slug": "p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 675
+    "time": 392
   },
   {
     "name": "blog.p1ass.com",
@@ -13,15 +13,15 @@
     "slug": "blog-p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 372
+    "time": 240
   },
   {
     "name": "blog-api.p1ass.com",
-    "url": "https://blog-api.p1ass.com",
+    "url": "https://blog-api.p1ass.com/rss",
     "slug": "blog-api-p1ass-com",
-    "status": "down",
-    "uptime": "-3035.89",
-    "time": 1013
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1010
   },
   {
     "name": "midare.p1ass.com",
@@ -37,6 +37,6 @@
     "slug": "midare-api-p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 248
+    "time": 260
   }
 ]
