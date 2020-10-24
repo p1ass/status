@@ -1,7 +1,7 @@
 - url: https://blog-api.p1ass.com/rss
-- status: down
-- code: 500
-- responseTime: 1105
-- lastUpdated: 2020-10-24T04:48:57.739Z
+- status: up
+- code: 200
+- responseTime: 1691
+- lastUpdated: 2020-10-24T05:10:32.431Z
 - startTime: 2020-10-21T08:05:12.191Z
 - generator: Upptime <https://github.com/upptime/upptime>
