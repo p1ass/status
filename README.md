@@ -1,4 +1,4 @@
-# [![Upptime](./assets/logo.svg)](https://upptime.js.org)
+# [📈 Live Status](https://status.p1ass.com): <!--live status--> **🟩 All systems operational**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -8,16 +8,15 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/p1ass/status/workflows/Summary%20CI/badge.svg)](https://github.com/p1ass/status/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/p1ass/status/workflows/Uptime%20CI/badge.svg)](https://github.com/p1ass/status/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://status.p1ass.com): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [p1ass.com](https://p1ass.com) | 🟩 Up | [p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/p1ass-com.yml) | <img alt="Response time graph" src="./graphs/p1ass-com.png" height="20"> 147ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fp1ass-com%2Fuptime.json)
-| [blog.p1ass.com](https://blog.p1ass.com) | 🟩 Up | [blog-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/blog-p1ass-com.yml) | <img alt="Response time graph" src="./graphs/blog-p1ass-com.png" height="20"> 127ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fblog-p1ass-com%2Fuptime.json)
-| [blog-api.p1ass.com](https://blog-api.p1ass.com/rss) | 🟩 Up | [blog-api-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/blog-api-p1ass-com.yml) | <img alt="Response time graph" src="./graphs/blog-api-p1ass-com.png" height="20"> 1451ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fblog-api-p1ass-com%2Fuptime.json)
-| [midare.p1ass.com](https://midare.p1ass.com) | 🟩 Up | [midare-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/midare-p1ass-com.yml) | <img alt="Response time graph" src="./graphs/midare-p1ass-com.png" height="20"> 140ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fmidare-p1ass-com%2Fuptime.json)
-| [midare-api.p1ass.com](https://midare-api.p1ass.com) | 🟩 Up | [midare-api-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/midare-api-p1ass-com.yml) | <img alt="Response time graph" src="./graphs/midare-api-p1ass-com.png" height="20"> 437ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fmidare-api-p1ass-com%2Fuptime.json)
+| [p1ass.com](https://p1ass.com) | 🟩 Up | [p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/p1ass-com.yml) | <img alt="Response time graph" src="./graphs/p1ass-com.png" height="20"> 142ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fp1ass-com%2Fuptime.json)
+| [blog.p1ass.com](https://blog.p1ass.com) | 🟩 Up | [blog-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/blog-p1ass-com.yml) | <img alt="Response time graph" src="./graphs/blog-p1ass-com.png" height="20"> 124ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fblog-p1ass-com%2Fuptime.json)
+| [blog-api.p1ass.com](https://blog-api.p1ass.com/rss) | 🟩 Up | [blog-api-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/blog-api-p1ass-com.yml) | <img alt="Response time graph" src="./graphs/blog-api-p1ass-com.png" height="20"> 1472ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fblog-api-p1ass-com%2Fuptime.json)
+| [midare.p1ass.com](https://midare.p1ass.com) | 🟩 Up | [midare-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/midare-p1ass-com.yml) | <img alt="Response time graph" src="./graphs/midare-p1ass-com.png" height="20"> 138ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fmidare-p1ass-com%2Fuptime.json)
+| [midare-api.p1ass.com](https://midare-api.p1ass.com) | 🟩 Up | [midare-api-p1ass-com.yml](https://github.com/p1ass/status/commits/master/history/midare-api-p1ass-com.yml) | <img alt="Response time graph" src="./graphs/midare-api-p1ass-com.png" height="20"> 424ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fp1ass%2Fstatus%2Fmaster%2Fapi%2Fmidare-api-p1ass-com%2Fuptime.json)
 <!--end: status pages-->
 
 ## 👩‍💻 Getting started
@@ -262,7 +261,7 @@ Similarly, response time badges are available: ![Response time](https://img.shie
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Koj](https://koj.co)
+- Code: [MIT](./LICENSE) © [Naoki Kishi](https://p1ass.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 
 <p align="center">
