@@ -3,17 +3,17 @@
     "name": "p1ass.com",
     "url": "https://p1ass.com",
     "slug": "p1ass-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 139
+    "time": 133
   },
   {
     "name": "blog.p1ass.com",
     "url": "https://blog.p1ass.com",
     "slug": "blog-p1ass-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 127
+    "time": 122
   },
   {
     "name": "blog-api.p1ass.com",
