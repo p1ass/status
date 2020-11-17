@@ -12,6 +12,8 @@ sites:
     url: https://midare.p1ass.com
   - name: midare-api.p1ass.com
     url: https://midare-api.p1ass.com
+  - name: grafana.p1ass.com
+    url: https://grafana.p1ass.com/
   # - name: Secret Site
   # url: $SECRET_SITE
 notifications:
