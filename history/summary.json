@@ -43,8 +43,8 @@
     "name": "grafana.p1ass.com",
     "url": "https://grafana.p1ass.com/",
     "slug": "grafana-p1ass-com",
-    "status": "down",
-    "uptime": "99.71",
-    "time": 3794
+    "status": "up",
+    "uptime": "100.00",
+    "time": 3517
   }
 ]
