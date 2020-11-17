@@ -25,3 +25,4 @@ status-website:
   name: p1ass status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: "*.p1ass.comを外形監視しています。"
+  apiBaseUrl: https://api.github.com
