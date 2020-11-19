@@ -1,7 +1,7 @@
 - url: https://midare-api.p1ass.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 1168
-- lastUpdated: 2020-11-19T06:50:34.885Z
+- responseTime: 348
+- lastUpdated: 2020-11-19T06:57:00.226Z
 - startTime: 2020-10-21T08:05:18.105Z
 - generator: Upptime <https://github.com/upptime/upptime>
