@@ -5,7 +5,7 @@
     "slug": "p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 133
+    "time": 135
   },
   {
     "name": "blog.p1ass.com",
@@ -13,7 +13,7 @@
     "slug": "blog-p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 131
+    "time": 132
   },
   {
     "name": "blog-api.p1ass.com",
@@ -21,7 +21,7 @@
     "slug": "blog-api-p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 1580
+    "time": 1610
   },
   {
     "name": "midare.p1ass.com",
@@ -29,7 +29,7 @@
     "slug": "midare-p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 178
+    "time": 176
   },
   {
     "name": "midare-api.p1ass.com",
@@ -37,7 +37,7 @@
     "slug": "midare-api-p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 584
+    "time": 577
   },
   {
     "name": "grafana.p1ass.com",
@@ -45,6 +45,6 @@
     "slug": "grafana-p1ass-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 3745
+    "time": 3437
   }
 ]
