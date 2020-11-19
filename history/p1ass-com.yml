@@ -1,7 +1,7 @@
 - url: https://p1ass.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 136
-- lastUpdated: 2020-11-19T06:50:19.896Z
+- responseTime: 149
+- lastUpdated: 2020-11-19T06:56:51.233Z
 - startTime: 2020-10-21T08:05:08.513Z
 - generator: Upptime <https://github.com/upptime/upptime>
