@@ -1,7 +1,7 @@
 - url: https://grafana.p1ass.com/
-- status: down
+- status: up
 - code: 200
-- responseTime: 955
-- lastUpdated: 2020-11-19T06:50:38.088Z
+- responseTime: 891
+- lastUpdated: 2020-11-19T06:57:02.799Z
 - startTime: 2020-11-17T15:24:10.331Z
 - generator: Upptime <https://github.com/upptime/upptime>
