@@ -4,39 +4,47 @@
     "url": "https://p1ass.com",
     "slug": "p1ass-com",
     "status": "up",
-    "uptime": "100.00",
-    "time": 132
+    "uptime": "100.00%",
+    "time": 141
   },
   {
     "name": "blog.p1ass.com",
     "url": "https://blog.p1ass.com",
     "slug": "blog-p1ass-com",
     "status": "up",
-    "uptime": "100.00",
-    "time": 132
+    "uptime": "100.00%",
+    "time": 136
   },
   {
     "name": "blog-api.p1ass.com",
     "url": "https://blog-api.p1ass.com/rss",
     "slug": "blog-api-p1ass-com",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1589
+    "uptime": "99.96%",
+    "time": 1635
   },
   {
     "name": "midare.p1ass.com",
     "url": "https://midare.p1ass.com",
     "slug": "midare-p1ass-com",
     "status": "up",
-    "uptime": "100.00",
-    "time": 181
+    "uptime": "100.00%",
+    "time": 169
   },
   {
     "name": "midare-api.p1ass.com",
     "url": "https://midare-api.p1ass.com",
     "slug": "midare-api-p1ass-com",
     "status": "up",
-    "uptime": "100.00",
-    "time": 560
+    "uptime": "100.00%",
+    "time": 585
+  },
+  {
+    "name": "grafana.p1ass.com",
+    "url": "https://grafana.p1ass.com/",
+    "slug": "grafana-p1ass-com",
+    "status": "up",
+    "uptime": "99.73%",
+    "time": 2241
   }
 ]
