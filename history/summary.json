@@ -5,7 +5,15 @@
     "slug": "p1ass-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 149
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 155,
+    "timeDay": 76,
+    "timeWeek": 193,
+    "timeMonth": 162,
+    "timeYear": 155
   },
   {
     "name": "blog.p1ass.com",
@@ -13,15 +21,31 @@
     "slug": "blog-p1ass-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 140
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 151,
+    "timeDay": 227,
+    "timeWeek": 190,
+    "timeMonth": 163,
+    "timeYear": 151
   },
   {
     "name": "blog-api.p1ass.com",
     "url": "https://blog-api.p1ass.com/rss",
     "slug": "blog-api-p1ass-com",
-    "status": "up",
-    "uptime": "99.96%",
-    "time": 1626
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
+    "time": 1621,
+    "timeDay": 648,
+    "timeWeek": 1386,
+    "timeMonth": 1630,
+    "timeYear": 1621
   },
   {
     "name": "midare.p1ass.com",
@@ -29,7 +53,15 @@
     "slug": "midare-p1ass-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 171
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 175,
+    "timeDay": 209,
+    "timeWeek": 200,
+    "timeMonth": 205,
+    "timeYear": 175
   },
   {
     "name": "midare-api.p1ass.com",
@@ -37,7 +69,15 @@
     "slug": "midare-api-p1ass-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 574
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 579,
+    "timeDay": 257,
+    "timeWeek": 395,
+    "timeMonth": 630,
+    "timeYear": 579
   },
   {
     "name": "grafana.p1ass.com",
@@ -45,6 +85,14 @@
     "slug": "grafana-p1ass-com",
     "status": "up",
     "uptime": "99.86%",
-    "time": 1768
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1874,
+    "timeDay": 973,
+    "timeWeek": 897,
+    "timeMonth": 1874,
+    "timeYear": 1874
   }
 ]
