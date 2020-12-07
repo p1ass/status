@@ -10,9 +10,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 289,
-    "timeWeek": 209,
-    "timeMonth": 168,
+    "timeDay": 137,
+    "timeWeek": 215,
+    "timeMonth": 167,
     "timeYear": 158
   },
   {
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 355,
-    "timeWeek": 193,
-    "timeMonth": 167,
-    "timeYear": 154
+    "time": 153,
+    "timeDay": 78,
+    "timeWeek": 175,
+    "timeMonth": 164,
+    "timeYear": 153
   },
   {
     "name": "blog-api.p1ass.com",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1586,
-    "timeDay": 699,
-    "timeWeek": 1218,
-    "timeMonth": 1536,
-    "timeYear": 1586
+    "time": 1579,
+    "timeDay": 1107,
+    "timeWeek": 1109,
+    "timeMonth": 1515,
+    "timeYear": 1579
   },
   {
     "name": "midare.p1ass.com",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 1009,
-    "timeWeek": 296,
-    "timeMonth": 216,
-    "timeYear": 190
+    "time": 188,
+    "timeDay": 91,
+    "timeWeek": 295,
+    "timeMonth": 214,
+    "timeYear": 188
   },
   {
     "name": "midare-api.p1ass.com",
@@ -73,26 +73,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 376,
-    "timeWeek": 535,
-    "timeMonth": 657,
-    "timeYear": 584
+    "time": 579,
+    "timeDay": 254,
+    "timeWeek": 526,
+    "timeMonth": 635,
+    "timeYear": 579
   },
   {
     "name": "grafana.p1ass.com",
     "url": "https://grafana.p1ass.com/",
     "slug": "grafana-p1ass-com",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 1792,
-    "timeDay": 572,
-    "timeWeek": 856,
-    "timeMonth": 1792,
-    "timeYear": 1792
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1762,
+    "timeDay": 918,
+    "timeWeek": 858,
+    "timeMonth": 1762,
+    "timeYear": 1762
   }
 ]
