@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 171,
-    "timeWeek": 138,
-    "timeMonth": 144,
-    "timeYear": 170,
+    "time": 169,
+    "timeDay": 148,
+    "timeWeek": 137,
+    "timeMonth": 140,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 46,
-    "timeWeek": 101,
-    "timeMonth": 104,
-    "timeYear": 163,
+    "time": 162,
+    "timeDay": 73,
+    "timeWeek": 83,
+    "timeMonth": 103,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1397,
-    "timeDay": 1055,
-    "timeWeek": 1068,
+    "time": 1395,
+    "timeDay": 1059,
+    "timeWeek": 1064,
     "timeMonth": 1197,
-    "timeYear": 1397,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2020-10-24": 22
     }
@@ -62,18 +62,16 @@
     "slug": "midare-p1ass-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 152,
+    "time": 169,
+    "timeDay": 131,
     "timeWeek": 119,
-    "timeMonth": 125,
-    "timeYear": 170,
-    "dailyMinutesDown": {
-      "2021-03-05": 6
-    }
+    "timeMonth": 118,
+    "timeYear": 169,
+    "dailyMinutesDown": {}
   },
   {
     "name": "midare-api.p1ass.com",
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 239,
+    "time": 503,
+    "timeDay": 261,
     "timeWeek": 362,
-    "timeMonth": 441,
-    "timeYear": 504,
+    "timeMonth": 440,
+    "timeYear": 503,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1139,
-    "timeDay": 877,
-    "timeWeek": 930,
+    "time": 1137,
+    "timeDay": 870,
+    "timeWeek": 921,
     "timeMonth": 968,
-    "timeYear": 1139,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2020-11-17": 32
     }
