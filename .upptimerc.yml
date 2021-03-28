@@ -1,11 +1,11 @@
-owner: p1ass
+owner: plusoon
 repo: status
-user-agent: p1ass
+user-agent: plusoon
 sites:
-  - name: p1ass.com
-    url: https://p1ass.com
-  - name: blog.p1ass.com
-    url: https://blog.p1ass.com
+  - name: plusoon.com
+    url: https://plusoon.com
+  - name: blog.plusoon.com
+    url: https://blog.plusoon.com
   - name: blog-api.p1ass.com
     url: https://blog-api.p1ass.com/rss
   - name: midare.p1ass.com
@@ -22,9 +22,9 @@ notifications:
 assignees:
   - p1ass
 status-website:
-  cname: status.p1ass.com
-  logoUrl: https://raw.githubusercontent.com/p1ass/status/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
-  name: p1ass status
+  cname: status.plusoon.com
+  logoUrl: https://raw.githubusercontent.com/plusoon/status/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
+  name: plusoon status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "*.p1ass.comを外形監視しています。"
+  introMessage: "*.plusoon.comを外形監視しています。"
   apiBaseUrl: https://api.github.com
