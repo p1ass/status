@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 208,
-    "timeWeek": 327,
-    "timeMonth": 212,
-    "timeYear": 177,
+    "time": 178,
+    "timeDay": 242,
+    "timeWeek": 339,
+    "timeMonth": 215,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 69,
-    "timeWeek": 137,
-    "timeMonth": 125,
-    "timeYear": 158,
+    "time": 157,
+    "timeDay": 104,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1362,
-    "timeDay": 349,
-    "timeWeek": 930,
-    "timeMonth": 1187,
-    "timeYear": 1362,
+    "time": 1356,
+    "timeDay": 290,
+    "timeWeek": 781,
+    "timeMonth": 1163,
+    "timeYear": 1356,
     "dailyMinutesDown": {
       "2020-10-24": 22
     }
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 69,
-    "timeWeek": 121,
+    "timeDay": 79,
+    "timeWeek": 119,
     "timeMonth": 122,
     "timeYear": 161,
     "dailyMinutesDown": {}
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 250,
-    "timeWeek": 448,
-    "timeMonth": 424,
-    "timeYear": 492,
+    "time": 490,
+    "timeDay": 220,
+    "timeWeek": 444,
+    "timeMonth": 422,
+    "timeYear": 490,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1100,
-    "timeDay": 854,
-    "timeWeek": 957,
-    "timeMonth": 946,
-    "timeYear": 1100,
+    "time": 1099,
+    "timeDay": 910,
+    "timeWeek": 924,
+    "timeMonth": 950,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2020-11-17": 32
     }
