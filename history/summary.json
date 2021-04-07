@@ -40,17 +40,17 @@
     "url": "https://blog-api.p1ass.com/rss",
     "icon": "https://favicons.githubusercontent.com/blog-api.p1ass.com",
     "slug": "blog-api-p1ass-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1335,
-    "timeDay": 221,
-    "timeWeek": 317,
-    "timeMonth": 1076,
-    "timeYear": 1335,
+    "time": 1329,
+    "timeDay": 228,
+    "timeWeek": 309,
+    "timeMonth": 1053,
+    "timeYear": 1329,
     "dailyMinutesDown": {
       "2020-10-24": 22
     }
