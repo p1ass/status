@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 445,
-    "timeWeek": 363,
-    "timeMonth": 278,
+    "timeDay": 294,
+    "timeWeek": 352,
+    "timeMonth": 282,
     "timeYear": 186,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 168,
-    "timeWeek": 151,
-    "timeMonth": 134,
+    "timeDay": 176,
+    "timeWeek": 150,
+    "timeMonth": 136,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1293,
-    "timeDay": 241,
-    "timeWeek": 487,
-    "timeMonth": 842,
-    "timeYear": 1293,
+    "time": 1287,
+    "timeDay": 212,
+    "timeWeek": 481,
+    "timeMonth": 798,
+    "timeYear": 1287,
     "dailyMinutesDown": {
       "2020-10-24": 22
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 314,
-    "timeWeek": 155,
-    "timeMonth": 143,
-    "timeYear": 160,
+    "time": 161,
+    "timeDay": 189,
+    "timeWeek": 159,
+    "timeMonth": 146,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 741,
-    "timeWeek": 450,
-    "timeMonth": 392,
-    "timeYear": 482,
+    "time": 481,
+    "timeDay": 211,
+    "timeWeek": 449,
+    "timeMonth": 368,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1086,
-    "timeDay": 965,
-    "timeWeek": 909,
-    "timeMonth": 935,
-    "timeYear": 1086,
+    "time": 1084,
+    "timeDay": 740,
+    "timeWeek": 925,
+    "timeMonth": 931,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2020-11-17": 32
     }
