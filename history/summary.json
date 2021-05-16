@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 253,
-    "timeWeek": 400,
-    "timeMonth": 421,
+    "timeDay": 358,
+    "timeWeek": 401,
+    "timeMonth": 418,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 78,
-    "timeWeek": 249,
-    "timeMonth": 184,
+    "timeDay": 126,
+    "timeWeek": 243,
+    "timeMonth": 182,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1240,
-    "timeDay": 957,
-    "timeWeek": 836,
-    "timeMonth": 859,
-    "timeYear": 1240,
+    "time": 1239,
+    "timeDay": 992,
+    "timeWeek": 856,
+    "timeMonth": 884,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2020-10-24": 22
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 95,
-    "timeWeek": 173,
-    "timeMonth": 234,
-    "timeYear": 170,
+    "time": 169,
+    "timeDay": 60,
+    "timeWeek": 154,
+    "timeMonth": 225,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 240,
-    "timeWeek": 358,
-    "timeMonth": 398,
-    "timeYear": 470,
+    "time": 469,
+    "timeDay": 283,
+    "timeWeek": 362,
+    "timeMonth": 383,
+    "timeYear": 469,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1194,
-    "timeDay": 956,
-    "timeWeek": 985,
-    "timeMonth": 1763,
-    "timeYear": 1194,
+    "time": 1193,
+    "timeDay": 993,
+    "timeWeek": 983,
+    "timeMonth": 1764,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2020-11-17": 32
     }
