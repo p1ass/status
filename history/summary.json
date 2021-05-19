@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 386,
-    "timeWeek": 435,
-    "timeMonth": 444,
-    "timeYear": 221,
+    "time": 223,
+    "timeDay": 655,
+    "timeWeek": 475,
+    "timeMonth": 448,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 85,
-    "timeWeek": 231,
-    "timeMonth": 181,
+    "timeDay": 122,
+    "timeWeek": 158,
+    "timeMonth": 182,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1243,
-    "timeDay": 1585,
-    "timeWeek": 1122,
-    "timeMonth": 950,
-    "timeYear": 1243,
+    "time": 1240,
+    "timeDay": 621,
+    "timeWeek": 1087,
+    "timeMonth": 936,
+    "timeYear": 1240,
     "dailyMinutesDown": {
       "2020-10-24": 22
     }
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 153,
-    "timeWeek": 131,
-    "timeMonth": 226,
+    "timeDay": 185,
+    "timeWeek": 137,
+    "timeMonth": 229,
     "timeYear": 169,
     "dailyMinutesDown": {}
   },
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 279,
-    "timeWeek": 371,
-    "timeMonth": 383,
-    "timeYear": 467,
+    "time": 466,
+    "timeDay": 247,
+    "timeWeek": 261,
+    "timeMonth": 354,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1191,
-    "timeDay": 1081,
-    "timeWeek": 1033,
-    "timeMonth": 1767,
-    "timeYear": 1191,
+    "time": 1189,
+    "timeDay": 856,
+    "timeWeek": 1011,
+    "timeMonth": 1753,
+    "timeYear": 1189,
     "dailyMinutesDown": {
       "2020-11-17": 32
     }
