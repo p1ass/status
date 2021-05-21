@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 419,
-    "timeWeek": 494,
-    "timeMonth": 448,
-    "timeYear": 224,
+    "time": 227,
+    "timeDay": 901,
+    "timeWeek": 555,
+    "timeMonth": 463,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 292,
-    "timeWeek": 164,
-    "timeMonth": 186,
-    "timeYear": 159,
+    "time": 160,
+    "timeDay": 271,
+    "timeWeek": 165,
+    "timeMonth": 192,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1237,
-    "timeDay": 640,
-    "timeWeek": 1047,
-    "timeMonth": 921,
-    "timeYear": 1237,
+    "time": 1234,
+    "timeDay": 551,
+    "timeWeek": 1009,
+    "timeMonth": 931,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2020-10-24": 22
     }
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 129,
-    "timeWeek": 137,
-    "timeMonth": 231,
+    "timeDay": 265,
+    "timeWeek": 144,
+    "timeMonth": 234,
     "timeYear": 169,
     "dailyMinutesDown": {}
   },
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 202,
-    "timeWeek": 249,
-    "timeMonth": 351,
-    "timeYear": 465,
+    "time": 464,
+    "timeDay": 231,
+    "timeWeek": 247,
+    "timeMonth": 350,
+    "timeYear": 464,
     "dailyMinutesDown": {}
   },
   {
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1188,
-    "timeDay": 1122,
-    "timeWeek": 1039,
-    "timeMonth": 1735,
+    "timeDay": 1180,
+    "timeWeek": 1034,
+    "timeMonth": 1736,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2020-11-17": 32
