@@ -40,7 +40,7 @@
     "url": "https://blog-api.p1ass.com/rss",
     "icon": "https://favicons.githubusercontent.com/blog-api.p1ass.com",
     "slug": "blog-api-p1ass-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 1156,
     "timeDay": 886,
     "timeWeek": 856,
-    "timeMonth": 838,
+    "timeMonth": 853,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2020-10-24": 22
@@ -78,7 +78,7 @@
     "url": "https://midare-api.p1ass.com",
     "icon": "https://favicons.githubusercontent.com/midare-api.p1ass.com",
     "slug": "midare-api-p1ass-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
