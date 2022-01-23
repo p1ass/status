@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 282,
     "timeDay": 247,
-    "timeWeek": 237,
-    "timeMonth": 270,
+    "timeWeek": 248,
+    "timeMonth": 272,
     "timeYear": 314,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 34,
-    "timeWeek": 95,
-    "timeMonth": 119,
+    "timeWeek": 96,
+    "timeMonth": 120,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -48,9 +48,9 @@
     "uptimeYear": "100.00%",
     "time": 1101,
     "timeDay": 813,
-    "timeWeek": 797,
-    "timeMonth": 812,
-    "timeYear": 993,
+    "timeWeek": 787,
+    "timeMonth": 813,
+    "timeYear": 992,
     "dailyMinutesDown": {}
   },
   {
@@ -58,7 +58,7 @@
     "url": "https://midare.p1ass.com",
     "icon": "https://favicons.githubusercontent.com/midare.p1ass.com",
     "slug": "midare-p1ass-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 92,
-    "timeWeek": 63,
+    "timeWeek": 62,
     "timeMonth": 76,
     "timeYear": 141,
     "dailyMinutesDown": {}
@@ -84,8 +84,8 @@
     "uptimeYear": "100.00%",
     "time": 399,
     "timeDay": 241,
-    "timeWeek": 234,
-    "timeMonth": 246,
+    "timeWeek": 235,
+    "timeMonth": 245,
     "timeYear": 362,
     "dailyMinutesDown": {}
   },
@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1159,
+    "timeYear": 1160,
     "dailyMinutesDown": {}
   }
 ]
