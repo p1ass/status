@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 280,
     "timeDay": 35,
-    "timeWeek": 135,
+    "timeWeek": 121,
     "timeMonth": 122,
     "timeYear": 304,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 89,
-    "timeWeek": 89,
+    "timeWeek": 99,
     "timeMonth": 86,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://midare.p1ass.com",
     "icon": "https://favicons.githubusercontent.com/midare.p1ass.com",
     "slug": "midare-p1ass-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 76,
-    "timeWeek": 99,
+    "timeWeek": 100,
     "timeMonth": 108,
     "timeYear": 117,
     "dailyMinutesDown": {}
