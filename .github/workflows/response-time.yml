@@ -10,14 +10,14 @@
 name: Response Time CI
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: '0 23 * * *'
   repository_dispatch:
     types: [response_time]
   workflow_dispatch:
 jobs:
   release:
     name: Check status
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.3
@@ -27,7 +27,7 @@ jobs:
       - name: Update response time
         uses: upptime/uptime-monitor@v1.26.1
         with:
-          command: "response-time"
+          command: 'response-time'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
